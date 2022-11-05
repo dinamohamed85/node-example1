@@ -1,5 +1,4 @@
-# node-example1-
-first example to learn node js
+# first example to learn node js
 
 - node app.js
 - localhost:3000
